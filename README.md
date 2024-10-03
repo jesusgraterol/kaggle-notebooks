@@ -8,3 +8,12 @@ This repository houses a collection of Jupyter Notebooks I've developed and shar
 In this notebook, we build and train a Multi-Step / Multi-Output Regression Model powered by TensorFlow & Keras in order to predict Bitcoin's future trend.
 
 [View Notebook](./bitcoin-trend-prediction-model-with-tensorflow/README.md)
+
+
+
+## Bitcoin KeyZones (Support & Resistance Levels)
+
+Even though financial markets don't follow any easy-to-identify patterns, as the number of factors that influence the price are significantly large and not always present in historic data ...
+
+
+[View Notebook](./bitcoin-keyzones-support-resistance-levels/README.md)
