@@ -52,3 +52,13 @@ When coding automated trading systems, it is essential to have a deep understand
 When trading Bitcoin, stocks or any other asset, it is very common to execute several trades at different prices for different amounts. Therefore, the mean of the prices won't suffice to ...
 
 [View Notebook](./weighted-average-trade-price/README.md)
+
+
+
+<br/>
+
+## Futures Liquidation Price
+
+When trading Futures Contracts, the allocated funds are used as collateral by the Exchange Platform in order to be able to open a position based on the desired leverage. If the asset's price moves against the position side strongly ...
+
+[View Notebook](./futures-liquidation-price/README.md)
