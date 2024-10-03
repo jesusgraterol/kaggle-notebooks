@@ -17,3 +17,11 @@ Even though financial markets don't follow any easy-to-identify patterns, as the
 
 
 [View Notebook](./bitcoin-keyzones-support-resistance-levels/README.md)
+
+
+
+## Bitcoin Price State
+
+Understanding the price state of Bitcoin, stocks or any other asset is essential to open/increase/reduce/close positions as it can reveal the trend, as well as overbought and oversold states.
+
+[View Notebook](./bitcoin-price-state/README.md)
