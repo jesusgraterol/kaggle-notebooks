@@ -13,7 +13,7 @@ In this notebook, we build and train a Multi-Step / Multi-Output Regression Mode
 
 ## Bitcoin KeyZones (Support & Resistance Levels)
 
-Even though financial markets don't follow any easy-to-identify patterns, as the number of factors that influence the price are significantly large and not always present in historic data ...
+KeyZones are price levels that act as barriers to price movement. Support levels are prices where buyers are likely to step in and buy, preventing the price from falling further. Resistance levels …
 
 
 [View Notebook](./bitcoin-keyzones-support-resistance-levels/README.md)
@@ -25,3 +25,11 @@ Even though financial markets don't follow any easy-to-identify patterns, as the
 Understanding the price state of Bitcoin, stocks or any other asset is essential to open/increase/reduce/close positions as it can reveal the trend, as well as overbought and oversold states.
 
 [View Notebook](./bitcoin-price-state/README.md)
+
+
+
+## Bitcoin Spot Order Book
+
+When coding automated trading systems, it is essential to have a deep understanding  of how trades are filled and how the price is affected by the existing liquidity (Bids & Asks).
+
+[View Notebook](./bitcoin-spot-orderbook/README.md)
