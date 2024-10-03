@@ -7,7 +7,7 @@
 
 <br/>
 
-# Bitcoin Weighted Average Trade Price
+# Weighted Average Trade Price
 
 When trading Bitcoin, stocks or any other asset, it is very common to execute several trades at different prices for different amounts. Therefore, the mean of the prices won't suffice to derive the real entry price. The formula to calculate the weighted average price goes as follows:
 

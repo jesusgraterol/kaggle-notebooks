@@ -7,7 +7,7 @@
 
 <br/>
 
-# Bitcoin Trend Prediction Model (TensorFlow)
+# Trend Prediction Model (TensorFlow)
 
 In this notebook, we build and train a Multi-Step / Multi-Output Regression Model powered by TensorFlow & Keras in order to predict Bitcoin's future trend. 
 

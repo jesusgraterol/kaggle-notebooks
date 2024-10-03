@@ -7,7 +7,7 @@
 
 <br/>
 
-# Bitcoin Spot Order Book
+# Order Book
 
 When coding automated trading systems, it is essential to have a deep understanding  of how trades are filled and how the price is affected by the existing liquidity (Bids & Asks).
 

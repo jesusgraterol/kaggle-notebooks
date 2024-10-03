@@ -7,7 +7,7 @@
 
 <br/> 
 
-# Bitcoin KeyZones (Support & Resistance Levels)
+# KeyZones (Support & Resistance Levels)
 
 Even though financial markets don't follow any easy-to-identify patterns, as the number of factors that influence the price are significantly large and not always present in historic data that can be accessed by individuals, support and resistance levels (KeyZones) are very helpful when it comes down to trading with trend-following and/or dollar cost averaging strategies.
 
