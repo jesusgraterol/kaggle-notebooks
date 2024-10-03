@@ -57,6 +57,16 @@ When trading Bitcoin, stocks or any other asset, it is very common to execute se
 
 <br/>
 
+## Futures Liquidation Price
+
+When trading Futures Contracts, the allocated funds are used as collateral by the Exchange Platform in order to be able to open a position based on the desired leverage. If the asset's price moves against the position ...
+
+[View Notebook](./futures-liquidation-price/README.md)
+
+
+
+<br/>
+
 ## Notebook Utilities
 
 The purpose of this Notebook/Utility Script is to provide a series of helper functions that will simplify the development of more complex projects.
