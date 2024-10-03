@@ -11,6 +11,8 @@ In this notebook, we build and train a Multi-Step / Multi-Output Regression Mode
 
 
 
+<br/>
+
 ## Bitcoin KeyZones (Support & Resistance Levels)
 
 KeyZones are price levels that act as barriers to price movement. Support levels are prices where buyers are likely to step in and buy, preventing the price from falling further. Resistance levels …
@@ -20,6 +22,8 @@ KeyZones are price levels that act as barriers to price movement. Support levels
 
 
 
+<br/>
+
 ## Bitcoin Price State
 
 Understanding the price state of Bitcoin, stocks or any other asset is essential to open/increase/reduce/close positions as it can reveal the trend, as well as overbought and oversold states.
@@ -28,8 +32,20 @@ Understanding the price state of Bitcoin, stocks or any other asset is essential
 
 
 
+<br/>
+
 ## Bitcoin Spot Order Book
 
 When coding automated trading systems, it is essential to have a deep understanding  of how trades are filled and how the price is affected by the existing liquidity (Bids & Asks).
 
 [View Notebook](./bitcoin-spot-orderbook/README.md)
+
+
+
+<br/>
+
+## Bitcoin Weighted Average Trade Price
+
+When trading Bitcoin, stocks or any other asset, it is very common to execute several trades at different prices for different amounts. Therefore, the mean of the prices won't suffice to ...
+
+[View Notebook](./bitcoin-weighted-average-trade-price/README.md)
